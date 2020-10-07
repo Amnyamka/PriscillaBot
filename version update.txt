@@ -1,0 +1,17 @@
+==========v0.1==========
+=07.10.2020=
+
+- release of the bot
+- new command: send
+- a lot of bugs
+
+
+
+
+==========v0.2==========
+=07.10.2020=
+
+- new commands: role, roleall
+- fixing a lot of minor bugs.
+- no more spooky russian text
+- more comments

@@ -1,4 +1,4 @@
-==========v0.1==========
+==========v0.2==========
 This is a special bot used for non-standard tasks.
 Author: Amnyamka
 
@@ -17,10 +17,19 @@ use it as first symbol before command
 
 =====commands:=====
 
-send [role] [text] - it sends direct messages to all users of the group with the specified role.
+send [role] [text] - sends direct messages to all users of the group with the specified role.
 
-       Example: !send Admin Text
+       Example: !send role Text
        Use a roles only with 1 word or it will NOT work.
+
+role [role] [username] - checking the role of the user
+
+       Example: !role role Amnyam
+       Use a roles only with 1 word or it will NOT work.
+
+roleall [role] - checking the role of all users
+
+       Example: !roleall role
 
 
 
