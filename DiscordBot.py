@@ -1,11 +1,8 @@
 import discord
 from discord.ext import commands
-import asyncio
-from discord.utils import get
 
-Pswd =  ("sukablyat")
 
-TOKEN = 'NjY3Nzg2MTk4Mzc4NjEwNjk4.XiH0Ng.CpiCyQvvwQlUz1xB47DDa_T_ZYQ'
+TOKEN = 'NjY3Nzg2MTk4Mzc4NjEwNjk4.XiHyXA.vnl17HBFjtObh4kBGejhnCvhVRo'
 bot = commands.Bot(command_prefix='!')
 
 players = {}
