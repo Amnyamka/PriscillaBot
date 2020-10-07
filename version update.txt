@@ -14,4 +14,4 @@
 - new commands: role, roleall
 - fixing a lot of minor bugs.
 - no more spooky russian text
-- more comments
+- more comments.
