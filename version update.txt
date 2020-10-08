@@ -1,36 +1,13 @@
-==========v0.1==========
-=07.10.2020=
+=========version 0.1=========
 
-- release of the bot
-- new command: send
-- a lot of bugs
+-pre-alpha release.
+-a lot of bugs.
+-command !send
 
+=========version 0.2=========
 
-
-
-==========v0.2==========
-=07.10.2020=
-
-- new commands: role, roleall
-- fixing a lot of minor bugs.
-- no more spooky russian text
-- more comments
-=======
-==========v0.1==========
-=07.10.2020=
-
-- release of the bot
-- new command: send
-- a lot of bugs
-
-
-
-
-==========v0.2==========
-=07.10.2020=
-
-- new commands: role, roleall
-- fixing a lot of minor bugs.
-- no more spooky russian text
-- more comments.
->>>>>>> origin/master
+-new commands: !role !roleall
+-fixing critical bugs that break the bot.
+-The bot will welcome new users.
+-No more spooky russian text!
+-No more useless garbage, but there's still more.
